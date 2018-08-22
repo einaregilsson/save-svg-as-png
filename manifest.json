@@ -9,7 +9,7 @@
         "48": "icon-48.png",
         "128": "icon-128.png"
     },
-    "description" : "Save SVG images as PNG. Navigate to an .svg file, right click on it and click on the context menu item 'Save SVG as PNG. You will be prompted for the desired width of the PNG.",
+    "description" : "Save SVG images as PNG. Navigate to an .svg file, right click on it and click on the context menu item 'Save SVG as PNG.",
     "background": {
         "scripts": ["background.js"]
     },
